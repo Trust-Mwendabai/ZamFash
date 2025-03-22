@@ -19,11 +19,20 @@ const galleryImages = [
     { src: 'images/image2.jpg', category: 'suits' },
     { src: 'images/image3.jpg', category: 'caftan' },
     { src: 'images/image4.jpg', category: 'suits' },
-    { src: 'images/image5.jpg', category: 'dresses' },
     { src: 'images/image6.jpg', category: 'suits' },
     { src: 'images/image7.jpg', category: 'caftan' },
-    { src: 'images/image-DNL.jpg', category: 'dresses' },
-    { src: 'images/image.jpg', category: 'uniforms' }
+    { src: 'images/zamfash.jpg', category: 'suits' },
+    { src: 'images/image.jpg', category: 'uniforms' },
+    { src: 'images/image5.jpg', category: 'suits' },
+    { src: 'images/happy-client.jpg', category: 'suits' },
+    { src: 'images/happy-client1.jpg', category: 'suits' },
+    { src: 'images/image-DNL.jpg', category: 'suits' },
+    // Dress category images with exact filenames
+    { src: 'images/dresses-1.jpg', category: 'dresses' },
+    { src: 'images/dresses2.jpg', category: 'dresses' },
+    { src: 'images/dresses3.jpg', category: 'dresses' },
+    { src: 'images/dresses4.jpg', category: 'dresses' },
+    { src: 'images/dresses5.jpg', category: 'dresses' }
 ];
 
 // Load gallery images
